@@ -19,10 +19,12 @@
     <br/>
   <br/>
   
- ![imhjnoh's github stats](https://github-readme-stats.vercel.app/api?username=imhjnoh&theme=swift&show_icons=true&count_private=true&hide=stars)
-[![imhjnoh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imhjnoh&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=swift)](https://github.com/imhjnoh)
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imhjnoh&theme=swift&show_icons=true&count_private=true&hide=stars" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhjnoh&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=swift" align="center"/>
 </div>
-
+</div>
 
 <!--
 **imhjnoh/imhjnoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
