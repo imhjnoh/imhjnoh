@@ -1,7 +1,7 @@
 
 
   <h1>Hi there 👋 I'm HeeJeong Noh</h1>
-  <h3>🐤 Junior Frontend Engineer</h3>
+  <h3>🐤 Junior Frontend Engineer</h3> 
   
   [![Velog's GitHub stats](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@imhjnoh) 
   <br/>  <br/>
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=rust&logoColor=white">
   </div>
 
   <br/>
