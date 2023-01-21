@@ -6,7 +6,7 @@
   [![Velog's GitHub stats](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@imhjnoh) 
   <br/>  <br/>
   <div>
-  <h3>🔭 I’m currently working on ...</h3>
+  <h3>🔭 I’m currently working with ...</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,13 +20,14 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   </div>
 
   <br/>
   <div>
   <h3>🌱 I’m currently learning ...</h3>
   <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
   </div>
