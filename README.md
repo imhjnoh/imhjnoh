@@ -22,14 +22,16 @@
   <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=rust&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white">
   </div>
 
   <br/>
   <div>
   <h3>🌱 I’m currently learning ...</h3>
-  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   </div>
   <br/>
     <br/>
